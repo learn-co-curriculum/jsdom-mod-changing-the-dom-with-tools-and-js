@@ -26,7 +26,7 @@ that _does the same thing_.
 From this web page, look at the Chrome menubar at the top of the page. Click
 on "View", then select "Developer", then "Developer Tools". This will open the
 Google Developer Tools. Click on the "Elements" tab. Here we have the DOM
-representation of the HTML source the browser loeaded.
+representation of the HTML source the browser loaded.
 
 ## Select an Element With Chrome DevTools
 
