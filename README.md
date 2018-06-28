@@ -30,7 +30,7 @@ representation of the HTML source the browser loaded.
 
 ## Select an Element With Chrome DevTools
 
-Mouse through the "Elements" panel 
+Mouse through the "Elements" panel
 
 You will see what looks like HTML.  There are head tags, body tags, divs, etc.
 
@@ -126,9 +126,10 @@ DOM.
 Congratulations, believe it or not this is a huge learning moment. By our
 definition of DOM programming, DOM programming is using JavaScript to:
 
-1. **Ask the DOM to find an HTML element or elements in the rendered page**
-2. **Remove the selected element(s)** or add a new element next to the selected element
+1. **Ask the DOM to find or "select" an HTML element or elements in the rendered page**
+2. **Remove the selected element(s)** or insert a new element (and / or)
 3. Adjust a property of the selected element(s)
+
 
 In this lesson you just did all that bold stuff! Learning to duplicate what you
 can do in DevTools with JavaScript **is** DOM Programming, and you just did it!
